@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\amd\desktop\trabajo parcial\8 pila\pila\cpila.h(89): warning C4715: 'CPila<int>::IsEmpty': no todas las rutas de acceso de control devuelven un valor
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Main.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  Pila.vcxproj -> C:\Users\AMD\Desktop\Trabajo Parcial\8 Pila\Debug\Pila.exe
+  Pila.vcxproj -> C:\Users\AMD\Desktop\Trabajo Parcial\8 Pila\Debug\Pila.pdb (Partial PDB)

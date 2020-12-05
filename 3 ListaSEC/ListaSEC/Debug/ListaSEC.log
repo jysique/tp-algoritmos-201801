@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\amd\desktop\trabajo parcial\3 listasec\listasec\clistasec.h(143): warning C4715: 'CListaSEC<int>::EliminarEnPosicion': no todas las rutas de acceso de control devuelven un valor
+  Main.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  ListaSEC.vcxproj -> C:\Users\AMD\Desktop\Trabajo Parcial\3 ListaSEC\Debug\ListaSEC.exe
+  ListaSEC.vcxproj -> C:\Users\AMD\Desktop\Trabajo Parcial\3 ListaSEC\Debug\ListaSEC.pdb (Partial PDB)

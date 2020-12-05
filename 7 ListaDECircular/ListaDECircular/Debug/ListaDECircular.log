@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\amd\desktop\trabajo parcial\7 listadecircular\listadecircular\clistadec.h(149): warning C4715: 'CListaDEC<int>::EliminarEnPosicion': no todas las rutas de acceso de control devuelven un valor
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Main.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  ListaDECircular.vcxproj -> C:\Users\AMD\Desktop\Trabajo Parcial\7 ListaDECircular\Debug\ListaDECircular.exe
+  ListaDECircular.vcxproj -> C:\Users\AMD\Desktop\Trabajo Parcial\7 ListaDECircular\Debug\ListaDECircular.pdb (Partial PDB)

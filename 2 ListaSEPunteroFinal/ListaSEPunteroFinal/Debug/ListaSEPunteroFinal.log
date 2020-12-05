@@ -1,0 +1,7 @@
+﻿  Main.cpp
+c:\users\amd\desktop\trabajo parcial\2 listasepunterofinal\listasepunterofinal\clistasepf.h(146): warning C4715: 'CListaSEPF<int>::GetInicio': no todas las rutas de acceso de control devuelven un valor
+c:\users\amd\desktop\trabajo parcial\2 listasepunterofinal\listasepunterofinal\clistasepf.h(141): warning C4715: 'CListaSEPF<int>::GetFinal': no todas las rutas de acceso de control devuelven un valor
+c:\users\amd\desktop\trabajo parcial\2 listasepunterofinal\listasepunterofinal\clistasepf.h(133): warning C4715: 'CListaSEPF<int>::EliminarEnPosicion': no todas las rutas de acceso de control devuelven un valor
+  Main.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  ListaSEPunteroFinal.vcxproj -> C:\Users\AMD\Desktop\Trabajo Parcial\2 ListaSEPunteroFinal\Debug\ListaSEPunteroFinal.exe
+  ListaSEPunteroFinal.vcxproj -> C:\Users\AMD\Desktop\Trabajo Parcial\2 ListaSEPunteroFinal\Debug\ListaSEPunteroFinal.pdb (Partial PDB)
