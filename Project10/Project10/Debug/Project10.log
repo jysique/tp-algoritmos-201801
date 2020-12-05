@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jose\documents\visual studio 2017\projects\project10\project10\source.cpp(132): warning C4101: 'valorY': variable local sin referencia
+c:\users\jose\documents\visual studio 2017\projects\project10\project10\source.cpp(132): warning C4101: 'valorX': variable local sin referencia
+  Project10.vcxproj -> C:\Users\Jose\Documents\Visual Studio 2017\Projects\Project10\Debug\Project10.exe

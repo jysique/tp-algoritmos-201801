@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\jose\documents\visual studio 2017\projects\listasdobleenlazada\listasdobleenlazada\source.cpp(87): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\jose\documents\visual studio 2017\projects\listasdobleenlazada\listasdobleenlazada\source.cpp(85): note: durante la compilación de la función miembro de plantilla clase de 'void CDEList<int>::actualizar(void)'
+  c:\users\jose\documents\visual studio 2017\projects\listasdobleenlazada\listasdobleenlazada\source.cpp(136): note: vea la referencia a la creación de instancias de plantilla de función 'void CDEList<int>::actualizar(void)' que se está compilando
+  c:\users\jose\documents\visual studio 2017\projects\listasdobleenlazada\listasdobleenlazada\source.cpp(132): note: vea la referencia a la creación de instancias de plantilla clase de 'CDEList<int>' que se está compilando
+c:\users\jose\documents\visual studio 2017\projects\listasdobleenlazada\listasdobleenlazada\source.cpp(125): warning C4715: 'CDEList<int>::EliminarPosicion': no todas las rutas de acceso de control devuelven un valor
+  ListasDobleEnlazada.vcxproj -> C:\Users\Jose\Documents\Visual Studio 2017\Projects\ListasDobleEnlazada\Debug\ListasDobleEnlazada.exe

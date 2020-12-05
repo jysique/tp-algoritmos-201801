@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\jose\documents\visual studio 2017\projects\listasse-punterofinal\listasse-punterofinal\source.cpp(45): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\jose\documents\visual studio 2017\projects\listasse-punterofinal\listasse-punterofinal\source.cpp(43): note: durante la compilación de la función miembro de plantilla clase de 'void CSEFList<int>::actualizar(void)'
+  c:\users\jose\documents\visual studio 2017\projects\listasse-punterofinal\listasse-punterofinal\source.cpp(133): note: vea la referencia a la creación de instancias de plantilla de función 'void CSEFList<int>::actualizar(void)' que se está compilando
+  c:\users\jose\documents\visual studio 2017\projects\listasse-punterofinal\listasse-punterofinal\source.cpp(129): note: vea la referencia a la creación de instancias de plantilla clase de 'CSEFList<int>' que se está compilando
+c:\users\jose\documents\visual studio 2017\projects\listasse-punterofinal\listasse-punterofinal\source.cpp(37): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\jose\documents\visual studio 2017\projects\listasse-punterofinal\listasse-punterofinal\source.cpp(33): note: durante la compilación de la función miembro de plantilla clase de 'int CSEFList<int>::get_Elemento(::size_t)'
+  c:\users\jose\documents\visual studio 2017\projects\listasse-punterofinal\listasse-punterofinal\source.cpp(46): note: vea la referencia a la creación de instancias de plantilla de función 'int CSEFList<int>::get_Elemento(::size_t)' que se está compilando
+c:\users\jose\documents\visual studio 2017\projects\listasse-punterofinal\listasse-punterofinal\source.cpp(120): warning C4715: 'CSEFList<int>::EliminarPosicion': no todas las rutas de acceso de control devuelven un valor
+  ListasSE-PunteroFinal.vcxproj -> C:\Users\Jose\Documents\Visual Studio 2017\Projects\ListasSE-PunteroFinal\Debug\ListasSE-PunteroFinal.exe

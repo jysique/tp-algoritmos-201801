@@ -1,5 +1,0 @@
-﻿  Main.cpp
-  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
-  Main.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
-  Cola.vcxproj -> C:\Users\AMD\Desktop\Trabajo Parcial\9 Cola\Debug\Cola.exe
-  Cola.vcxproj -> C:\Users\AMD\Desktop\Trabajo Parcial\9 Cola\Debug\Cola.pdb (Partial PDB)

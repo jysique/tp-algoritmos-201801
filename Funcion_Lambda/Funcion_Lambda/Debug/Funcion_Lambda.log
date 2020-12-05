@@ -1,0 +1,51 @@
+﻿  Source.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\type_traits(1825): warning C4244: 'return': conversión de 'int' a 'float'; posible pérdida de datos
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\functional(299): note: vea la referencia a la creación de instancias de plantilla de función '_Rx std::_Invoker_ret<_Rx,false>::_Call<_Callable&,_Ty,_Ty>(_Callable &,_Ty &&,_Ty &&)' que se está compilando
+          with
+          [
+              _Rx=float,
+              _Callable=main::<lambda_14e8fa58daf29149a815e454f94e6d95>,
+              _Ty=std::ios_base::iostate
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\functional(299): note: vea la referencia a la creación de instancias de plantilla de función '_Rx std::_Invoker_ret<_Rx,false>::_Call<_Callable&,_Ty,_Ty>(_Callable &,_Ty &&,_Ty &&)' que se está compilando
+          with
+          [
+              _Rx=float,
+              _Callable=main::<lambda_14e8fa58daf29149a815e454f94e6d95>,
+              _Ty=std::ios_base::iostate
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\functional(298): note: durante la compilación de la función miembro de plantilla clase de 'float std::_Func_impl_no_alloc<main::<lambda_14e8fa58daf29149a815e454f94e6d95>,_Ret,int,int>::_Do_call(int &&,int &&)'
+          with
+          [
+              _Ret=float
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\functional(136): note: vea la referencia a la creación de instancias de plantilla clase de 'std::_Func_impl_no_alloc<main::<lambda_14e8fa58daf29149a815e454f94e6d95>,_Ret,int,int>' que se está compilando
+          with
+          [
+              _Ret=float
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\functional(401): note: vea la referencia a la creación de instancias de plantilla clase de 'std::_Is_large<_Impl>' que se está compilando
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\functional(583): note: vea la referencia a la creación de instancias de plantilla de función 'void std::_Func_class<_Ret,int,int>::_Reset<main::<lambda_14e8fa58daf29149a815e454f94e6d95>>(_Fx &&)' que se está compilando
+          with
+          [
+              _Ret=float,
+              _Fx=main::<lambda_14e8fa58daf29149a815e454f94e6d95>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\functional(583): note: vea la referencia a la creación de instancias de plantilla de función 'void std::_Func_class<_Ret,int,int>::_Reset<main::<lambda_14e8fa58daf29149a815e454f94e6d95>>(_Fx &&)' que se está compilando
+          with
+          [
+              _Ret=float,
+              _Fx=main::<lambda_14e8fa58daf29149a815e454f94e6d95>
+          ]
+  c:\users\jose\documents\visual studio 2017\projects\funcion_lambda\funcion_lambda\source.cpp(62): note: vea la referencia a la creación de instancias de plantilla de función 'std::function<float (int,int)>::function<main::<lambda_14e8fa58daf29149a815e454f94e6d95>,void>(_Fx)' que se está compilando
+          with
+          [
+              _Fx=main::<lambda_14e8fa58daf29149a815e454f94e6d95>
+          ]
+  c:\users\jose\documents\visual studio 2017\projects\funcion_lambda\funcion_lambda\source.cpp(62): note: vea la referencia a la creación de instancias de plantilla de función 'std::function<float (int,int)>::function<main::<lambda_14e8fa58daf29149a815e454f94e6d95>,void>(_Fx)' que se está compilando
+          with
+          [
+              _Fx=main::<lambda_14e8fa58daf29149a815e454f94e6d95>
+          ]
+  Funcion_Lambda.vcxproj -> C:\Users\Jose\Documents\Visual Studio 2017\Projects\Funcion_Lambda\Debug\Funcion_Lambda.exe
+  Funcion_Lambda.vcxproj -> C:\Users\Jose\Documents\Visual Studio 2017\Projects\Funcion_Lambda\Debug\Funcion_Lambda.pdb (Partial PDB)

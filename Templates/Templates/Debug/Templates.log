@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jose\documents\visual studio 2017\projects\templates\templates\source.cpp(115): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Templates.vcxproj -> C:\Users\Jose\Documents\Visual Studio 2017\Projects\Templates\Debug\Templates.exe
+  Templates.vcxproj -> C:\Users\Jose\Documents\Visual Studio 2017\Projects\Templates\Debug\Templates.pdb (Partial PDB)

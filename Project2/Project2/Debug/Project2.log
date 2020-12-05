@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\jose\documents\visual studio 2017\projects\project2\project2\header.h(134): warning C4715: 'CListaSEPF<int>::EliminarEnPosicion': no todas las rutas de acceso de control devuelven un valor
+c:\users\jose\documents\visual studio 2017\projects\project2\project2\header.h(147): warning C4715: 'CListaSEPF<int>::GetInicio': no todas las rutas de acceso de control devuelven un valor
+c:\users\jose\documents\visual studio 2017\projects\project2\project2\header.h(142): warning C4715: 'CListaSEPF<int>::GetFinal': no todas las rutas de acceso de control devuelven un valor
+  Project2.vcxproj -> C:\Users\Jose\Documents\Visual Studio 2017\Projects\Project2\Debug\Project2.exe

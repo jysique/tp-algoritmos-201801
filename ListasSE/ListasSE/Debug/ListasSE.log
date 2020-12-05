@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\jose\documents\visual studio 2017\projects\listasse\listasse\source.cpp(47): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\jose\documents\visual studio 2017\projects\listasse\listasse\source.cpp(45): note: durante la compilación de la función miembro de plantilla clase de 'void CSEList<int>::actualizar(void)'
+  c:\users\jose\documents\visual studio 2017\projects\listasse\listasse\source.cpp(128): note: vea la referencia a la creación de instancias de plantilla de función 'void CSEList<int>::actualizar(void)' que se está compilando
+  c:\users\jose\documents\visual studio 2017\projects\listasse\listasse\source.cpp(124): note: vea la referencia a la creación de instancias de plantilla clase de 'CSEList<int>' que se está compilando
+c:\users\jose\documents\visual studio 2017\projects\listasse\listasse\source.cpp(39): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\jose\documents\visual studio 2017\projects\listasse\listasse\source.cpp(35): note: durante la compilación de la función miembro de plantilla clase de 'int CSEList<int>::get_Elemento(::size_t)'
+  c:\users\jose\documents\visual studio 2017\projects\listasse\listasse\source.cpp(48): note: vea la referencia a la creación de instancias de plantilla de función 'int CSEList<int>::get_Elemento(::size_t)' que se está compilando
+c:\users\jose\documents\visual studio 2017\projects\listasse\listasse\source.cpp(113): warning C4715: 'CSEList<int>::EliminarPosicion': no todas las rutas de acceso de control devuelven un valor
+  ListasSE.vcxproj -> C:\Users\Jose\Documents\Visual Studio 2017\Projects\ListasSE\Debug\ListasSE.exe
